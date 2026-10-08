@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Ricardo Guilhen
+Nome: Ricardo Guilhen Melo
 
-RA: >>> PREENCHER <<<
+RA: 23013569-2
 
 Conta GitHub: @ricguilhen
 
